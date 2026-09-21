@@ -18,6 +18,11 @@ App móvil + backend para una comunidad por invitación: chats en tiempo real, e
 - Privacidad por diseño: se elimina el GPS de fotos y videos, sin tracking.
 - **Stack:** Expo / React Native, Node.js, TypeScript, SQLite.
 
+<p>
+  <img src="images/pambauy-bienvenida.png" alt="PambaUy: pantalla de bienvenida" width="200">
+  <img src="images/pambauy-chats.png" alt="PambaUy: chats y estados" width="200">
+</p>
+
 ### 🛒 Bots de Telegram para comercios
 - **Gestión de pedidos y stock** para una ferretería: carga por foto, búsqueda, categorías, libreta de crédito, notificaciones al staff y verificación de salud del servicio.
 - **Importador de productos a Shopify**: pega un enlace y crea un borrador de producto para aprobar. [Ver código](https://github.com/brunorod631-byte/shopify-product-importer-portfolio).
@@ -28,9 +33,13 @@ App móvil + backend para una comunidad por invitación: chats en tiempo real, e
 Tienda de kits de polarizado por modelo de vehículo: selector, catálogo, carrito y checkout.
 - **Stack:** Next.js, Prisma, PostgreSQL (Neon), Mercado Pago.
 
+<img src="images/brillante-home.png" alt="Brillante Polarizados: página de inicio" width="600">
+
 ### 🥽 Demos de realidad aumentada
 Demos WebAR/VR (autos, zapatillas, etc.) que corren en el navegador del celular.
 - 👉 [Ver demo en vivo](https://brunorod631-byte.github.io/webar-demo) · [código](https://github.com/brunorod631-byte/webar-demo)
+
+<img src="images/webar-demo.png" alt="Demo WebAR: visor 3D de autos" width="600">
 
 ## Tecnologías
 
