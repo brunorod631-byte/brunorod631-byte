@@ -20,7 +20,7 @@ App móvil + backend para una comunidad por invitación: chats en tiempo real, e
 
 ### 🛒 Bots de Telegram para comercios
 - **Gestión de pedidos y stock** para una ferretería: carga por foto, búsqueda, categorías, libreta de crédito, notificaciones al staff y verificación de salud del servicio.
-- **Importador de productos a Shopify**: pega un enlace y crea un borrador de producto para aprobar.
+- **Importador de productos a Shopify**: pega un enlace y crea un borrador de producto para aprobar. [Ver código](https://github.com/brunorod631-byte/shopify-product-importer-portfolio).
 - **Comandero para restaurante**: mesas, comandas, cocina y estados de pedido.
 - **Stack:** Python, python-telegram-bot, Shopify API, despliegue en la nube.
 
