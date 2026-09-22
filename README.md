@@ -29,11 +29,11 @@ App móvil + backend para una comunidad por invitación: chats en tiempo real, e
 - **Comandero para restaurante**: mesas, comandas, cocina y estados de pedido.
 - **Stack:** Python, python-telegram-bot, Shopify API, despliegue en la nube.
 
-### 🕶️ Brillante Polarizados — e-commerce a medida
+### 🕶️ Polarizados a Medida — e-commerce de kits para autos
 Tienda de kits de polarizado por modelo de vehículo: selector, catálogo, carrito y checkout.
 - **Stack:** Next.js, Prisma, PostgreSQL (Neon), Mercado Pago.
 
-<img src="images/brillante-home.png" alt="Brillante Polarizados: página de inicio" width="600">
+<img src="images/polarizados-home.png" alt="Polarizados a Medida: página de inicio" width="600">
 
 ### 🥽 Demos de realidad aumentada
 Demos WebAR/VR (autos, zapatillas, etc.) que corren en el navegador del celular.
