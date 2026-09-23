@@ -58,7 +58,7 @@ App móvil + backend para una comunidad por invitación con mensajería efímera
 
 Fichas de producto en **realidad aumentada que corren en el navegador del celular**, sin instalar apps: el cliente ve un auto o un plato a escala real en su espacio.
 
-- Ficha de vehículo con cambio de color y animaciones (puertas, baúl), menú de restaurante en RA, generador de QR para el local.
+- Ficha de vehículo con selector de modelos y cambio de color, menú de restaurante en RA, generador de QR para el local.
 - Prototipos experimentales: personaje interactivo en RA/VR con WebXR y zapatilla sobre el pie con MediaPipe.
 - **Stack:** HTML/CSS/JS sin build, `<model-viewer>`, three.js, WebXR, GitHub Pages.
 
